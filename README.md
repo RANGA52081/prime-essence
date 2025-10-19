@@ -13,6 +13,7 @@ It allows users to explore dishes, customize their food (like Chicken Biryani or
 ![WhatsApp Image 2025-10-14 at 8 17 11 PM (1)](https://github.com/user-attachments/assets/427910ee-8f3c-4d0b-9115-cff5e43ba8b2)
 ![WhatsApp Image 2025-10-14 at 8 17 12 PM (1)](https://github.com/user-attachments/assets/4b4f096c-f29a-492f-8775-aa32986308e3)
 ![WhatsApp Image 2025-10-14 at 8 17 12 PM](https://github.com/user-attachments/assets/2af95327-3a05-4cbd-b3e8-c42b1de5d8a6)
+![WhatsApp Image 2025-10-14 at 8 17 13 PM](https://github.com/user-attachments/assets/21ab769f-e18b-425b-bc97-affeb3b32136)
 
 
 
