@@ -8,12 +8,12 @@ It allows users to explore dishes, customize their food (like Chicken Biryani or
 - Cart functionality linked to MySQL  
 - Integrated user login and order storage  
 - Responsive and visually appealing UI
-- ![WhatsApp Image 2025-10-14 at 8 17 13 PM](https://github.com/user-attachments/assets/3670dccc-03d7-43f1-be8f-5fadfdd6d2ca)
-![WhatsApp Image 2025-10-14 at 8 17 12 PM (1)](https://github.com/user-attachments/assets/f3b08a4e-eb28-49e4-842e-06cc4d1072ae)
-![WhatsApp Image 2025-10-14 at 8 17 12 PM](https://github.com/user-attachments/assets/e19fd82c-34ad-4ca8-bd28-fcf71f544205)
-![WhatsApp Image 2025-10-14 at 8 17 11 PM (1)](https://github.com/user-attachments/assets/1a8b046f-c650-4210-9fdb-238408300d5d)
-![WhatsApp Image 2025-10-14 at 8 17 10 PM](https://github.com/user-attachments/assets/94c78548-79dc-47c5-9847-27c0f9eaec57)
-![WhatsApp Image 2025-10-14 at 8 17 11 PM](https://github.com/user-attachments/assets/6e708657-c259-43f8-a7c8-a8c15fc54ea0)
+![WhatsApp Image 2025-10-14 at 8 17 10 PM](https://github.com/user-attachments/assets/105f55ad-db9f-4251-b75f-60c7003fe564)
+![WhatsApp Image 2025-10-14 at 8 17 11 PM](https://github.com/user-attachments/assets/c8e8f0f2-74e0-48c5-9088-66f6e45a0718)
+![WhatsApp Image 2025-10-14 at 8 17 11 PM (1)](https://github.com/user-attachments/assets/427910ee-8f3c-4d0b-9115-cff5e43ba8b2)
+![WhatsApp Image 2025-10-14 at 8 17 12 PM (1)](https://github.com/user-attachments/assets/4b4f096c-f29a-492f-8775-aa32986308e3)
+![WhatsApp Image 2025-10-14 at 8 17 12 PM](https://github.com/user-attachments/assets/2af95327-3a05-4cbd-b3e8-c42b1de5d8a6)
+
 
 
 ## 🛠️ Technologies Used
